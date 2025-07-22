@@ -5,3 +5,4 @@
 *.log
 *.d
 *.o
+User/EIDE/.vscode/c_cpp_properties.json
